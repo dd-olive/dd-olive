@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I'm starting new projects! Follow this account if you want to see my work on Living Room Learning, Delecert, or Drummer Boy Ministries (especially the library inventory app)
+I'm starting new projects! I'm currently working on delecert/wallet.git (which is private as of this writing). Let me know if you want access for any reason, either to keep me accountable, or to contribute yourself.
