@@ -46,7 +46,7 @@ I reserve the right(s) to
 * give myself a new preliminary Delecert reputation score.
   
 
-As far as I know, this statement is not legally binding. However, I guarantee the honesty and completeness of this document entitled dd-olive/claim_template.md with 
+As far as I know, this statement is not legally binding. However, I guarantee the honesty and completeness of this document entitled dd-olive/claim0_initial_reputation_score.md with 
 * my personal honor
 * the honor of my GitHub account
 * the honor of the capacity in which I am acting
