@@ -1,0 +1,1 @@
+I reserve the right to have opinions and a personality, but I will do my best to keep this account professional. If you go digging into me, personally, you might find things you don't like, because I don't live to please you. I do, however, hope that you benefit from the work done here.
