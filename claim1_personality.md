@@ -1,0 +1,1 @@
+I reserve the right to express my opinions and personality while maintaining professionalism. My personal views may not always align with everyone's expectations, but I hope the work here is beneficial.
